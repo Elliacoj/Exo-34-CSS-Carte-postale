@@ -1,0 +1,142 @@
+Body {
+    background-color: #e1e1e1;
+    font-family: B612, sans-serif;
+}
+
+#cadrelettre {
+    background-color: white;
+    position: relative;
+    margin-top: 100px;
+    left: 20%;
+    height: 550px;
+    width: 53%;
+    box-shadow: -11px 11px 17px #c8c8c8;
+}
+
+#texte {
+    width: 50%;
+    height: 100%;
+    color: #a3a3a3;
+    padding-left: 35px;
+    padding-right: 20px;
+    font-size: 20px;
+    padding-top: 16%;
+}
+
+span {
+    display: block;
+}
+
+#séparation {
+    background-color: #a3a3a3;
+    width: 2px;
+    height: 480px;
+    position: absolute;
+    top: 30px;
+    left: 505px;
+}
+
+#cadre {
+    border: 3px solid #a3a3a3;
+    width: 120px;
+    height: 150px;
+    position: absolute;
+    top: 30px;
+    left: 705px;
+}
+
+#ligne {
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    bottom: 80px;
+    left: 520px;
+}
+
+#liun {
+    background-color: #a3a3a3;
+    width: 320px;
+    height: 2px;
+    position: absolute;
+    top: 40px;
+    left: 5px;
+}
+
+#lideux {
+    background-color: #a3a3a3;
+    width: 320px;
+    height: 2px;
+    position: absolute;
+    top: 90px;
+    left: 5px;
+}
+
+#litrois {
+    background-color: #a3a3a3;
+    width: 320px;
+    height: 2px;
+    position: absolute;
+    top: 140px;
+    left: 5px;
+}
+
+#piticadre {
+    width: 350px;
+    height: 100px;
+    position: absolute;
+    top: 150px;
+}
+
+#cadreun {
+    border: 3px solid #a3a3a3;
+    width: 26px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 4px;
+}
+
+#cadredeux {
+    border: 3px solid #a3a3a3;
+    width: 26px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+
+#cadretrois {
+    border: 3px solid #a3a3a3;
+    width: 26px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 76px;
+}
+
+#cadrequatre {
+    border: 3px solid #a3a3a3;
+    width: 26px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 112px;
+}
+
+#cadrecinq {
+    border: 3px solid #a3a3a3;
+    width: 26px;
+    height: 40px;
+    position: absolute;
+    top: 10px;
+    left: 148px;
+}
+
+#cadresix {
+    background-color: #a3a3a3;
+    width: 140px;
+    height: 2px;
+    position: absolute;
+    top: 53px;
+    left: 186px;
+}
